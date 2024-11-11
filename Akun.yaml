@@ -1,0 +1,97 @@
+proxies:
+  - name: SG1
+    server: gw.ruangguru.com
+    port: 2082
+    type: vmess
+    uuid: I_Love_🇵🇸_sshOcean_4c37
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg2.v2vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg2.v2vmess.site
+    udp: true
+  - name: SG2
+    server: 172.67.22.129
+    port: 2082
+    type: vmess
+    uuid: I_Love_🇵🇸_sshOcean_4c37
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg2.v2vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg2.v2vmess.site
+    udp: true
+  - name: SG3
+    server: 104.22.21.245
+    port: 2082
+    type: vmess
+    uuid: I_Love_🇵🇸_sshOcean_4c37
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg2.v2vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg2.v2vmess.site
+    udp: true
+  - name: SG4
+    server: gw.ruangguru.com
+    port: 2082
+    type: vmess
+    uuid: I_Love_🇵🇸_SSHMax_85cdc9b
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg1.vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg1.vmess.site
+    udp: true
+  - name: SG5
+    server: 172.67.22.129
+    port: 2082
+    type: vmess
+    uuid: I_Love_🇵🇸_SSHMax_85cdc9b
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg1.vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg1.vmess.site
+    udp: true
+  - name: SG6
+    server: 104.22.21.245
+    port: 2082
+    type: vmess
+    uuid: I_Love_🇵🇸_SSHMax_85cdc9b
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg1.vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg1.vmess.site
+    udp: true

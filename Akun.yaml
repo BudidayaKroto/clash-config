@@ -3,7 +3,7 @@ proxies:
     server: gw.ruangguru.com
     port: 2082
     type: vmess
-    uuid: I_Love_????????_sshOcean_0926
+    uuid: I_Love_🇵🇸_sshOcean_0926
     alterId: 0
     cipher: auto
     tls: false
@@ -19,7 +19,7 @@ proxies:
     server: 172.67.22.129
     port: 2082
     type: vmess
-    uuid: I_Love_????????_sshOcean_0926
+    uuid: I_Love_🇵🇸_sshOcean_0926
     alterId: 0
     cipher: auto
     tls: false
@@ -35,7 +35,7 @@ proxies:
     server: 104.22.21.245
     port: 2082
     type: vmess
-    uuid: I_Love_????????_sshOcean_0926
+    uuid: I_Love_🇵🇸_sshOcean_0926
     alterId: 0
     cipher: auto
     tls: false
@@ -51,7 +51,7 @@ proxies:
     server: gw.ruangguru.com
     port: 2082
     type: vmess
-    uuid: I_Love_????????_SSHMax_ad215bf
+    uuid: I_Love_🇵🇸_SSHMax_ad215bf
     alterId: 0
     cipher: auto
     tls: false
@@ -67,7 +67,7 @@ proxies:
     server: 172.67.22.129
     port: 2082
     type: vmess
-    uuid: I_Love_????????_SSHMax_ad215bf
+    uuid: I_Love_🇵🇸_SSHMax_ad215bf
     alterId: 0
     cipher: auto
     tls: false
@@ -83,7 +83,7 @@ proxies:
     server: 104.22.21.245
     port: 2082
     type: vmess
-    uuid: I_Love_????????_SSHMax_ad215bf
+    uuid: I_Love_🇵🇸_SSHMax_ad215bf
     alterId: 0
     cipher: auto
     tls: false

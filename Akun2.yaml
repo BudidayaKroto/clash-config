@@ -3,7 +3,7 @@ proxies:
     server: space.byu.id
     port: 443
     type: vmess
-    uuid: I_Love_????????_sshOcean_0926
+    uuid: I_Love_🇵🇸_sshOcean_0926
     alterId: 0
     cipher: auto
     tls: true
@@ -19,7 +19,7 @@ proxies:
     server: space.byu.id
     port: 443
     type: vmess
-    uuid: I_Love_????????_SSHMax_ad215bf
+    uuid: I_Love_🇵🇸_SSHMax_ad215bf
     alterId: 0
     cipher: auto
     tls: true

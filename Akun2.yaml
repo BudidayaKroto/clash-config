@@ -31,3 +31,35 @@ proxies:
       headers:
         Host: sg1.vmess.site
     udp: true
+  - name: OP3
+    server: space.byu.id
+    port: 443
+    type: vmess
+    uuid: I_Love_🇵🇸_sshOcean_9282
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg1.v2vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg1.v2vmess.site
+    udp: true
+  - name: OP4
+    server: space.byu.id
+    port: 443
+    type: vmess
+    uuid: I_Love_🇵🇸_SSHMax_ec20cad
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg1.vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg1.vmess.site
+    udp: true

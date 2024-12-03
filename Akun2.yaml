@@ -63,3 +63,19 @@ proxies:
       headers:
         Host: sg1.vmess.site
     udp: true
+  - name: OPP
+    server: space.byu.id
+    port: 443
+    type: vmess
+    uuid: I_Love_🇵🇸_sshOcean_78ef
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: sg2.v2vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg2.v2vmess.site
+    udp: true

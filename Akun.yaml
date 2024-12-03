@@ -1,193 +1,33 @@
 proxies:
-  - name: SG1
-    server: gw.ruangguru.com
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_sshOcean_0926
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.v2vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.v2vmess.site
-    udp: true
-  - name: SG2
+  - name: ARG
     server: 172.67.22.129
     port: 2082
     type: vmess
-    uuid: I_Love_🇵🇸_sshOcean_0926
+    uuid: I_Love_🇵🇸_sshOcean_78ef
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: sg1.v2vmess.site
+    servername: sg2.v2vmess.site
     network: ws
     ws-opts:
       path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
       headers:
-        Host: sg1.v2vmess.site
+        Host: sg2.v2vmess.site
     udp: true
-  - name: SG3
+  - name: BRG
     server: 104.22.21.245
     port: 2082
     type: vmess
-    uuid: I_Love_🇵🇸_sshOcean_0926
+    uuid: I_Love_🇵🇸_sshOcean_78ef
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: sg1.v2vmess.site
+    servername: sg2.v2vmess.site
     network: ws
     ws-opts:
       path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
       headers:
-        Host: sg1.v2vmess.site
-    udp: true
-  - name: SG4
-    server: gw.ruangguru.com
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_SSHMax_ad215bf
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.vmess.site
-    udp: true
-  - name: SG5
-    server: 172.67.22.129
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_SSHMax_ad215bf
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.vmess.site
-    udp: true
-  - name: SG6
-    server: 104.22.21.245
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_SSHMax_ad215bf
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.vmess.site
-    udp: true
-  - name: SG7
-    server: gw.ruangguru.com
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_sshOcean_9282
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.v2vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.v2vmess.site
-    udp: true
-  - name: SG8
-    server: 172.67.22.129
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_sshOcean_9282
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.v2vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.v2vmess.site
-    udp: true
-  - name: SG9
-    server: 104.22.21.245
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_sshOcean_9282
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.v2vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.v2vmess.site
-    udp: true
-  - name: SG10
-    server: gw.ruangguru.com
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_SSHMax_ec20cad
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.vmess.site
-    udp: true
-  - name: SG11
-    server: 172.67.22.129
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_SSHMax_ec20cad
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.vmess.site
-    udp: true
-  - name: SG12
-    server: 104.22.21.245
-    port: 2082
-    type: vmess
-    uuid: I_Love_🇵🇸_SSHMax_ec20cad
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: sg1.vmess.site
-    network: ws
-    ws-opts:
-      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
-      headers:
-        Host: sg1.vmess.site
+        Host: sg2.v2vmess.site
     udp: true

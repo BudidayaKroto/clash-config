@@ -31,3 +31,19 @@ proxies:
       headers:
         Host: sg1.vmess.site
     udp: true
+  - name: AX
+    server: ovo.id
+    port: 80
+    type: vmess
+    uuid: I_Love_🇵🇸_sshOcean_78ef
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: sg2.v2vmess.site
+    network: ws
+    ws-opts:
+      path: /vmess#DONT-FORGET-TO-SUPPORT-SSHMAX.NET-TO-KEEP-THIS-SERVER-ALIVE
+      headers:
+        Host: sg2.v2vmess.site
+    udp: true

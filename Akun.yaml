@@ -15,22 +15,6 @@ proxies:
       headers:
         Host: sg2.v2vmess.site
     udp: true
-  - name: WIFI ID
-    server: 104.18.2.2
-    port: 80
-    type: vmess
-    uuid: c943d78c-8466-42f4-9e40-bcefba5e5461
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: do1.vpnbumiayu.my.id
-    network: ws
-    ws-opts:
-      path: /worryfree
-      headers:
-        Host: do1.vpnbumiayu.my.id
-    udp: true
   - name: BRG
     server: 104.22.21.245
     port: 2082
